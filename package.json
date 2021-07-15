@@ -1,0 +1,22 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "Para ler o texto completo: https://pingback.com/pedro/jest-tutorial-aprendendo-a-escrever-testes-javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pepeladeira/tutorial-jest-1.git"
+  },
+  "author": "Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pepeladeira/tutorial-jest-1/issues"
+  },
+  "homepage": "https://github.com/pepeladeira/tutorial-jest-1#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
